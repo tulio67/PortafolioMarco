@@ -5,9 +5,7 @@ import './index.css'; // Asegúrate de que tu archivo de Tailwind CSS esté impo
 
 function App() {
   return (
-    <div className="App">
-      <HomePage />
-    </div>
+    <HomePage />
   );
 }
 
